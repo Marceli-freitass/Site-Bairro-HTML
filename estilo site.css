@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+
+
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: auto;
+font-family: 'Combo';
+font-size: 24px;
+text-align: center;}
+    
+
+img{
+    border-radius: 10px;
+   text-shadow:  gray 2px 3px 2px;
+   width: 400px;
+   height: 250px;
+}
+
+#mapa{
+    display: flex;
+float: left;
+border-radius: 16px;
+width: 445px;
+height: 400px;
+}
+
+#introdução{
+    font-size: 20px;
+    margin-top: 40px;
+display: flex;
+float: right;
+clear: right;
+width: 443px;}
+
+
+
+
+
+p{
+    font-size: 24px;
+}
+
+li{
+    font-size: 24px;
+}
+
+table{
+    font-size: 36px;
+    text-align: center;
+    margin:auto;
+    background-color: #B823EF;
+    color: white;
+}
+
+h1{
+    clear:both;
+    font-weight: bolder;
+    text-shadow: gray 2px 3px 2px;
+    font-family: 'Quicksand';
+    display: flex;
+}
+
+.h1{
+    color:#B823EF
+}
+
+.menu{
+    text-decoration: none;
+    background-color: #B823EF;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;}
+
+
+#form {
+    /* Apenas para centralizar o form na página */
+    margin: 0 auto;
+    width: fit-content;
+    /* Para ver as bordas do formulário */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 16px;
+    background-color: #B823EF;
+    color:white;
+    font-size: 24px;
+}
+
+a{
+    color: white;
+    font-weight: bolder;
+    font-size: 24px;
+    border-radius: 20px;
+    border:solid white;
+    text-shadow: gray 2px 3px 2px;
+}
+
